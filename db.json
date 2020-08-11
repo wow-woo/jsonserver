@@ -1,21 +1,19 @@
-[
-  {
-    "company": [
-      {
-        "name": "Asia system",
-        "location": "JP"
-      },
-      {
-        "name": "Apple",
-        "location": "US"
-      },
-      {
-        "name": "SAMSUNG",
-        "location": "KR"
-      }
-    ],
-    "food": 1000,
-    "weather": ["sunny", "windy", "hot"],
-    "features": { "color": "blue", "weight": "light heavy" }
-  }
-]
+{
+  "company": [
+    {
+      "name": "Asia system",
+      "location": "JP"
+    },
+    {
+      "name": "Apple",
+      "location": "US"
+    },
+    {
+      "name": "SAMSUNG",
+      "location": "KR"
+    }
+  ],
+  "food": 1000,
+  "weather": ["sunny", "windy", "hot"],
+  "features": { "color": "blue", "weight": "light heavy" }
+}
