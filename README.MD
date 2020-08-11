@@ -1,6 +1,6 @@
-#🎈 Simple JSON API server
+# 🎈 Simple JSON API server
 
-###Goal
+### Goal
 
 - [x] JSON API drill
 - [x] JSON practice
